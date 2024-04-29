@@ -1,7 +1,7 @@
 package com.kadiraksoy.springboottodoapi.mapper;
 
 import com.kadiraksoy.springboottodoapi.model.Todo;
-import com.kadiraksoy.springboottodoapi.payload.payload.TodoResponseDTO;
+import com.kadiraksoy.springboottodoapi.payload.response.TodoResponseDTO;
 import com.kadiraksoy.springboottodoapi.payload.request.TodoRequestDTO;
 import org.mapstruct.InjectionStrategy;
 import org.mapstruct.Mapper;

@@ -1,4 +1,4 @@
-package com.kadiraksoy.springboottodoapi.payload.payload;
+package com.kadiraksoy.springboottodoapi.payload.response;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
