@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 public class TodoService   {
 
     private final TodoRepository todoRepository;
-    private final TodoMapper todoMapper;
+    TodoMapper todoMapper;
 
 
     public TodoResponseDTO addTodo(TodoRequestDTO todoRequestDTO) {
